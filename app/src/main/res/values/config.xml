@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_api_key_debug">AIzaSyD3RHp34GaQtXlBHm3UGO3-cDf5rhXfOWI</string>
+    <string name="maps_api_key_release">AIzaSyCAader_H1udWlbrcjp03zyihspQqo1jFU</string>
+</resources>

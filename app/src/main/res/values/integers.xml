@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="navigation_menu_drawables">
+        <item>@drawable/ic_nav_home</item>
+        <item>@drawable/ic_nav_profile</item>
+        <item>@drawable/ic_nav_my_status</item>
+        <item>@drawable/ic_nav_contacts</item>
+        <item>@drawable/ic_nav_inbox</item>
+        <item>@drawable/ic_nav_blocked_users</item>
+        <item>@drawable/ic_nav_settings</item>
+        <item>@drawable/ic_nav_more</item>
+    </integer-array>
+</resources>

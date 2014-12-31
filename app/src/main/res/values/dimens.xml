@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">2dp</dimen>
+    <dimen name="activity_vertical_margin">2dp</dimen>
+    
+    <dimen name="text_size_24">24dp</dimen>
+
+    <dimen name="tb_inner_radius">30dp</dimen>
+    <dimen name="tb_outer_radius">35dp</dimen>
+    <dimen name="tb_padding">5dp</dimen>
+    <dimen name="tb_text_size">14dp</dimen>
+    <dimen name="tb_stroke_width">3dp</dimen>
+    <dimen name="blind_height">37dp</dimen>
+</resources>
